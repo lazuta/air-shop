@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Lazuta\Lazuta\bin\Debug\Lazuta.exe.config
+C:\Users\User\source\repos\Lazuta\Lazuta\bin\Debug\Lazuta.exe
+C:\Users\User\source\repos\Lazuta\Lazuta\bin\Debug\Lazuta.pdb
+C:\Users\User\source\repos\Lazuta\Lazuta\obj\Debug\Lazuta.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lazuta\Lazuta\obj\Debug\Lazuta.Properties.Resources.resources
+C:\Users\User\source\repos\Lazuta\Lazuta\obj\Debug\Lazuta.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lazuta\Lazuta\obj\Debug\Lazuta.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lazuta\Lazuta\obj\Debug\Lazuta.exe
+C:\Users\User\source\repos\Lazuta\Lazuta\obj\Debug\Lazuta.pdb
+C:\Users\User\source\repos\Lazuta\Lazuta\obj\Debug\Lazuta.csproj.CopyComplete
+C:\Users\User\source\repos\Lazuta\Lazuta\obj\Debug\Lazuta.Registration.resources
+C:\Users\User\source\repos\Lazuta\Lazuta\obj\Debug\Lazuta.FormLogin.resources
+C:\Users\User\source\repos\Lazuta\Lazuta\obj\Debug\Lazuta.Login.resources
+C:\Users\User\source\repos\Lazuta\Lazuta\obj\Debug\Lazuta.Form2.resources
+C:\Users\User\source\repos\Lazuta\Lazuta\obj\Debug\Lazuta.home.resources
+C:\Users\User\source\repos\Lazuta\Lazuta\obj\Debug\Lazuta.park.resources
+C:\Users\User\source\repos\Lazuta\Lazuta\obj\Debug\Lazuta.order.resources
